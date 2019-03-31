@@ -6,4 +6,4 @@ my read me modified file for p4merge test
 
 on a branch
 
-this is bound to cause trouble!
+i hope this will not cause much problem
